@@ -6,3 +6,4 @@ MYSQL_HOST: mysql.ramvelcheti.store
 SHIPPING_HOST: shipping.ramvelcheti.store
 USER_HOST: user.ramvelcheti.store
 RABBITMQ_HOST: rabbitmq.ramvelcheti.store
+PAYMENT_HOST: payment.ramvelcheti.store
